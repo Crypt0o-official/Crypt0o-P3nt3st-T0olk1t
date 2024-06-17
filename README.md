@@ -2,6 +2,9 @@
 By Crypt0o -- Copyrigth
 
 
+All rights reserved
+
+All programs in this kit are at version 1.0.0.1
 
 
 _________                        __   _______                  __________________         __ ________           __          __________________         .__   __    ____  __   
